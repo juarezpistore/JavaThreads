@@ -4,6 +4,7 @@
 *				Prof. Hossein Darbandi
 *	Written on: Nov 19th 2018 
 *	Course: CPSC 1181 - 002 - Object Oriented Programming
+*	Langara College, Vancouver, BC, Canada
 *	Instructor: H. Darbandi
 */
 import java.util.Random;
